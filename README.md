@@ -25,8 +25,8 @@ If not → prints "Student not found".<br>
 
 <br>
 <br>
-Task 2: Demonstrate List Slicing
-Problem Statement
+Task 2: Demonstrate List Slicing <br>
+Problem Statement<br>
 
 Write a Python program that:<br>
 
@@ -37,93 +37,7 @@ Extracts the first five elements from the list.<br>
 Reverses these extracted elements.<br>
 
 Prints both the extracted list and the reversed list.<br>
-Task 2: Demonstrate List Slicing
-Problem Statement
-
-Write a Python program that:<br>
-
-Creates a list of numbers from 1 to 10.<br>
-
-Extracts the first five elements from the list.<br>
-
-Reverses these extracted elements.<br>
-
-Prints both the extracted list and the reversed list.<br>Task 2: Demonstrate List Slicing
-Problem Statement
-
-Write a Python program that:<br>
-
-Creates a list of numbers from 1 to 10.<br>
-
-Extracts the first five elements from the list.<br>
-
-Reverses these extracted elements.<br>
-
-Prints both the extracted list and the reversed list.<br>
-
-ApproachTask 2: Demonstrate List Slicing
-Problem Statement
-
-Write a Python program that:<br>
-
-Creates a list of numbers from 1 to 10.<br>
-
-Extracts the first five elements from the list.<br>
-
-Reverses these extracted elements.<br>
-
-Prints both the extracted list and the reversed list.<br><br>
-Task 2: Demonstrate List Slicing
-<br>
-Problem Statement
-<br>
-Write a Python program that:<br>
-
-Creates a list of numbers from 1 to 10.<br>
-
-Extracts the first five elements from the list.<br>
-
-Reverses these extracted elements.<br>
-
-Prints both the extracted list and the reversed list.<br>
-
-Approach
-
-A list of numbers [1, 2, ..., 10] is created.<br>
-
-Using slicing ([:5]), the first five elements are extracted.<br>
-
-These elements are then reversed using slicing ([::-1]).<br>
-
-Both the extracted and reversed lists are printed.<br>
-
-Approach
-
-A list of numbers [1, 2, ..., 10] is created.<br>
-
-Using slicing ([:5]), the first five elements are extracted.<br>
-
-These elements are then reversed using slicing ([::-1]).<br>
-
-Both the extracted and reversed lists are printed.<br>
-
-A list of numbers [1, 2, ..., 10] is created.<br>
-
-Using slicing ([:5]), the first five elements are extracted.<br>
-
-These elements are then reversed using slicing ([::-1]).<br>
-
-Both the extracted and reversed lists are printed.<br>
-
-Approach
-
-A list of numbers [1, 2, ..., 10] is created.<br>
-
-Using slicing ([:5]), the first five elements are extracted.<br>
-
-These elements are then reversed using slicing ([::-1]).<br>
-
-Both the extracted and reversed lists are printed.<br><br>
+<br><br>
 Approach
 
 A list of numbers [1, 2, ..., 10] is created.<br>
